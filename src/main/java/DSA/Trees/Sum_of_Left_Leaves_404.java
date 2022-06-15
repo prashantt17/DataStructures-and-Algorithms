@@ -1,4 +1,4 @@
-package com.prashant.DSA.Trees;
+package DSA.Trees;
 
 import java.util.Scanner;
 
